@@ -18,8 +18,6 @@
 |2. |najliepsza catpizza (wege) (cat)| | 1000zł|1000zł|1000zł|
 |3. |najliepsza hawajska (wege) (ananasy, ananasy)| | 101000zł| 1 zł |1000zł|
 
-<img src = "img/Pizzeria/katalog/catpizza.png" width = 300>
-
 *piękny italic text*
 
 <img src = "img/Pizzeria/katalog/chikenpizza.png" width = 300>

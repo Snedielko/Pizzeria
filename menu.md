@@ -35,5 +35,17 @@
 |4. |woda| | 1000zł|1000zł|
 |5. |piwo| | 0zł|0zł|
 
+## wege menu
+
+|Lp. |Pizza: |rozmiar: |30cm |50cm |60cm|
+|----|-------|---------|-----|-----|-----|
+|1. |najliepsza pepperoni (wege) (?)| | 1000zł| 1000zł|1000zł|
+|2. |najliepsza catpizza (wege) (cat)| | 1000zł|1000zł|1000zł|
+|3. |najliepsza hawajska (wege) (ananasy, ananasy)| | 101000zł| :) |1000zł|
+
+## sałatki
+
+salatka - 1zł
+
 :3
 :3

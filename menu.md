@@ -8,4 +8,4 @@
 4. najliepsza pizza surprise (surprise)
 5. najliepsza chicken pizza (chicken)
 
-* piękny italic text *
+*piękny italic text*

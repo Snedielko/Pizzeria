@@ -14,4 +14,6 @@
 
 *piękny italic text*
 
+<img src = "img/Pizzeria/katalog/chikenpizza.png" width = 300>
+
 **a b c d e f j WOW DUŻE LITERKI**

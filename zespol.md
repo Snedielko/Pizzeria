@@ -1,7 +1,8 @@
 # zespół
 
 ja
-ja
+ja 
+ja 
 ja ja
 ja
 ja

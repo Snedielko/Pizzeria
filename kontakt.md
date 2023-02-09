@@ -5,3 +5,5 @@
 snedielko@najliepszapizzeria.edu.cdv.pl
 
 moja ulubiona piosenka to : (https://youtu.be/vSW2M-BB1NE)
+
+jeście bardzo lubię kotów

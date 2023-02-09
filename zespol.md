@@ -21,3 +21,4 @@ ja
 **ja** **ja** **ja**
 kot
 kotkotkotkotkotkotkotkotkotkotkotkot
+prawda jest taka że jestem kotem
